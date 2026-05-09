@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Arun 👋
+Marketing Operations professional building AI assisted workflows, automation tools, and revenue operations systems.
+## Current Focus
 
-<!--
-**MarOpsByArun/MarOpsByArun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Marketing Operations & Revenue Systems
+- AI assisted workflow automation
+- HubSpot and CRM process optimization
+- Funnel and lifecycle operations
+- GTM systems thinking
 
-Here are some ideas to get you started:
+## Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HubSpot
+- Python
+- SQL
+- JavaScript
+- Streamlit
+- OpenAI APIs
+- GitHub
+- Marketing Automation
+
+  ## Current Goal
+  Building practical automation and AI tools that solve operational and marketing workflow problems.
+  I enjoy building calm, structured systems that reduce operational chaos.
